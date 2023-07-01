@@ -4,7 +4,7 @@
     "author": "xSrLeandro & Developer Anonymous",
     "contact": "twitch.tv/imdinax",
     "image": "logo.png",
-    "version": "1.2",
+    "version": "1.2.1",
     "priority": 10,
     "hooks": 
     [
