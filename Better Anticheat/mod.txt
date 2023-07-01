@@ -18,9 +18,11 @@
     ],
     "updates" : [
         {
-            "identifier" : "BAnticheat",
+            "identifier" : "BetterAnticheat",
             "host" : {
-                "meta" : "https://github.com/Developer-Anony/better-anticheat-pd2/blob/release/meta.json"
+                "meta" : "https://github.com/Developer-Anony/better-anticheat-pd2/blob/release/meta.json",
+                "download" : "https://github.com/Developer-Anony/better-anticheat-pd2/tree/release/Better%20Anticheat",
+                "patchnotes" : "https://github.com/Developer-Anony/better-anticheat-pd2/blob/release/PATCHNOTES.md"
             }
         }
     ]
