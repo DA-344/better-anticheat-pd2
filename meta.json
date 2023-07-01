@@ -1,8 +1,8 @@
 [
     {
-        "ident": "BetterAnticheat",
-        "version": "1.2",
-        "download_url": "https://github.com/Developer-Anony/better-anticheat-pd2/",
+        "ident": "PD2BetterAnticheat",
+        "version": "1.2.1",
+        "download_url": "https://github.com/Developer-Anony/better-anticheat-pd2",
         "patchnotes_url": "https://github.com/Developer-Anony/better-anticheat-pd2/blob/release/PATCHNOTES.mdn"
     }
  ]
