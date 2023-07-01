@@ -18,9 +18,9 @@
     ],
     "updates" : [
         {
-            "identifier" : "PD-Anticheat",
+            "identifier" : "Better Anticheat",
             "host" : {
-                "meta" : "https://github.com/soumaxetuirk/PD-Anticheat/raw/master/meta.json"
+                "meta" : "https://github.com/Developer-Anony/better-anticheat-pd2/blob/release/meta.json"
             }
         }
     ]
