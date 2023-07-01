@@ -21,8 +21,6 @@
             "identifier": "PD2BetterAnticheat",
             "host": {
                 "meta": "https://raw.githubusercontent.com/Developer-Anony/better-anticheat-pd2/release/meta.json",
-                "download": "https://github.com/Developer-Anony/better-anticheat-pd2/raw/release/ModRelease.zip",
-                "patchnotes": "https://raw.githubusercontent.com/Developer-Anony/better-anticheat-pd2/release/PATCHNOTES.md"
             }
         }
     ]
